@@ -5,7 +5,7 @@ public class Main {
         double ticketPrice = 14000.0;
 
         // переменная стоимости рублей для одной мили
-       int milescost = 20; //
+        int milescost = 20; //
 
         // Рассчет количества бонусных миль
         int miles = (int) (ticketPrice / milescost);
